@@ -1,0 +1,9 @@
+{
+	"name": "FirstImport",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e4cbf31-dae0-4dcd-ac8f-7a8d83fe8e67",
+		"tenantId": "61b67e20-6fcd-422d-8299-10dce01fa5cb"
+	}
+}
